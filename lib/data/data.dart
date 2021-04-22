@@ -4,7 +4,7 @@ final User currentUser = User(
   name: 'Prince Twumasi',
   handle: 'bigplank',
   imageUrl:
-      'https://www.fofoofotech.com/wp-content/uploads/2020/02/Prince-Twumasi-Profile-e1587004950499.jpg',
+        'https://images.unsplash.com/reserve/OlxPGKgRUaX0E1hg3b3X_Dumbo.JPG?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80'
 );
 
 final List<User> onlineUsers = [
@@ -12,7 +12,7 @@ final List<User> onlineUsers = [
     handle: 'popekabu',
     name: 'Daniel Kabu Asare',
     imageUrl:
-        'https://www.fofoofotech.com/wp-content/uploads/2020/02/new-dan-e1587005729270.jpg',
+        'https://images.unsplash.com/photo-1499363536502-87642509e31b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80'
   ),
   User(
       handle: 'messsiah',
